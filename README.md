@@ -1,5 +1,3 @@
-Here’s a **ready-to-use `README.md`** that you can copy and paste directly into your project folder:
-
 ````markdown
 # Flight Schedule App
 
@@ -101,7 +99,4 @@ my-app/
 
 ```
 
-You can save this as `README.md` and it’s ready for GitHub or your portfolio.
-
-Do you want me to also **add badges and a screenshot section** for a professional touch?
 ```
