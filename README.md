@@ -10,9 +10,9 @@ It displays a **Flight Schedule header**, a **calendar component**, and a **Cont
 
 ## Features
 
-- Uses **Skyscanner Backpack components** (`BpkText`, `BpkButton`, `BpkCode`, `BpkCalendar`)
-- Fully styled with Backpack **SCSS mixins**
-- Supports **selecting a date** from the calendar
+- Uses **Skyscanner Backpack components** (`BpkText`, `BpkButton`, `BpkCode`, `BpkCalendar`)  
+- Fully styled with Backpack **SCSS mixins**  
+- Supports **selecting a date** from the calendar  
 - Responsive layout for mobile and desktop
 
 ---
@@ -23,8 +23,7 @@ It displays a **Flight Schedule header**, a **calendar component**, and a **Cont
 
 ```bash
 npm install
-```
-
+````
 
 > Make sure you have **Node 14 or Node 16** installed.
 
@@ -76,29 +75,27 @@ my-app/
 
 ## Dependencies
 
-- `react` / `react-dom` – React 17
-- `@skyscanner/backpack-web` – Backpack components
-- `bpk-component-calendar` – Calendar component
-- `bpk-mixins` – SCSS mixins
-- `date-fns` – Date handling for calendar
+* `react` / `react-dom` – React 17
+* `@skyscanner/backpack-web` – Backpack components
+* `bpk-component-calendar` – Calendar component
+* `bpk-mixins` – SCSS mixins
+* `date-fns` – Date handling for calendar
 
 ---
 
 ## Customization
 
-- **Header**: Update text inside `App.jsx`
-- **Calendar**: Import `BpkCalendar` and handle date state
-- **Button**: Change text or add functionality inside `App.jsx`
-- **SCSS**: Modify `App.scss` for layout, spacing, and colors
+* **Header**: Update text inside `App.jsx`
+* **Calendar**: Import `BpkCalendar` and handle date state
+* **Button**: Change text or add functionality inside `App.jsx`
+* **SCSS**: Modify `App.scss` for layout, spacing, and colors
 
 ---
 
 ## Notes
 
-- All Backpack components use **CSS Modules by default**
-- Make sure `date-fns` is installed; otherwise `BpkCalendar` will fail
-- Use `node-sass` and `sass-loader` if SCSS compilation fails
+* All Backpack components use **CSS Modules by default**
+* Make sure `date-fns` is installed; otherwise `BpkCalendar` will fail
+* Use `node-sass` and `sass-loader` if SCSS compilation fails
 
-```
 
-```
