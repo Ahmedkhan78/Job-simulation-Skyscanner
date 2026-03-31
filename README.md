@@ -1,4 +1,3 @@
-Here’s a **ready-to-use `README.md`** that you can copy and paste directly into your project folder:
 
 ````markdown
 # Flight Schedule App
