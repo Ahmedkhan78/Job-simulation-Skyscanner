@@ -1,5 +1,3 @@
-Here’s a **ready-to-use `README.md`** that you can copy and paste directly into your project folder:
-
 ````markdown
 # Flight Schedule App
 
@@ -24,7 +22,7 @@ It displays a **Flight Schedule header**, a **calendar component**, and a **Cont
 ```bash
 npm install
 ```
-````
+
 
 > Make sure you have **Node 14 or Node 16** installed.
 
